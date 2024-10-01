@@ -3,7 +3,7 @@ title: About
 layout: template
 filename: index
 order: 0
----  
+---
 
 ## About Me
 
@@ -11,10 +11,8 @@ I am an economist working at the Mexican Central Bank (Banxico) in the Research 
 
 My research interests center on macroeconometrics, causal inference and monetary policy. Despite this, while studying my bachelor degree I did some work on development.
 
-
 [Download my CV](https://cepeda.github.io/CV_RCS024.pdf)
 
------
 
 ## Sobre mí
 Soy economista y trabajo en el Banco de México (Banxico) en el área de Investigación. Tengo una licenciatura del Centro de Investigación y Docencia Económicas (CIDE){
