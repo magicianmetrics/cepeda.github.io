@@ -12,7 +12,7 @@ I am an economist working at the Mexican Central Bank (Banxico) in the Research 
 My research interests center on macroeconometrics, causal inference and monetary policy. Despite this, while studying my bachelor degree I did some work on development.
 
 
-[Download my CV](https://cepeda.github.io/CV_Ra%C3%BAl_Cepeda_Su%C3%A1rez_2024.pdf)
+[Download my CV](https://cepeda.github.io/CV_RCS024.pdf)
 
 -----
 
