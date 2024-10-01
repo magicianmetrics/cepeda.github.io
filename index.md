@@ -15,8 +15,7 @@ My research interests center on macroeconometrics, causal inference and monetary
 
 
 ## Sobre mí
-Soy economista y trabajo en el Banco de México (Banxico) en el área de Investigación. Tengo una licenciatura del Centro de Investigación y Docencia Económicas (CIDE){
-="_blank"} y comenzaré mis estudios de posgrado el próximo año. La mayor parte de mi investigación se realizó antes de comenzar en Banxico, y mi trabajo de ninguna manera representa la opinión de Banxico.
+Soy economista y trabajo en el Banco de México (Banxico) en el área de Investigación. Tengo una licenciatura del[Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} y comenzaré mis estudios de posgrado el próximo año. La mayor parte de mi investigación se realizó antes de comenzar en Banxico, y mi trabajo de ninguna manera representa la opinión de Banxico.
 
 Mis intereses de investigación se centran en la macroeconometría, la inferencia causal y la política monetaria. A pesar de esto, durante mi licenciatura realicé algunos trabajos sobre desarrollo.
 
