@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: template
+layout: default
 filename: research
 order: 1
 --- 
