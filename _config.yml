@@ -10,3 +10,10 @@ show_downloads: false
 github:
   is_project_page: true
   languages: ["sp", "en"]
+nav:
+  - title: "About"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Teaching"
+    url: "/teaching/"
