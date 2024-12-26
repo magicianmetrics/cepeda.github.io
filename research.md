@@ -9,8 +9,9 @@ order: 1
 
 ## Working Papers
 
-**[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-*Revise and Resubmit at Regional Science and Urban Economics*.   
+**[The Impact of Special Economic Zones on Border
+Regions in Mexico]{:target="_blank"}** *with [Daniel Ventosa]([https://sites.google.com/view/luisbaldomeroquintana/]{:target="_blank"} and [Alejandro Romero]{:target="_blank"}*.  
+*Under review at journal *.   
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -24,13 +25,21 @@ order: 1
   <summary>Abstract</summary>
   <br>
   <blockquote style="text-align: justify;">
-     We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined, with varying degrees of success, to settlements known as pueblos de indios. Using historical records, we exploit quasi-random variation due to the pueblos' catchment areas and use a Regression Discontinuity Design to estimate the causal effects of pueblos on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the pueblos formerly inhabited exclusively by Indigenous populations. Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision, negative economic expectations, and the historical sorting of working-class individuals who built small housing structures, or second-nature factors. Moreover, in contemporary data, we observe discontinuities in housing overcrowding and public goods quality within the pueblos' catchment areas. Our results underscore the repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
+    We examine the effects of a significant tax reduction and a doubling of the minimum wage in
+the state of Baja California, Mexico. The statewide implementation of these policies provides a unique
+quasi-natural experiment, enabling us to analyze their impact on economic growth using a synthetic control
+approach. This method was instrumental in isolating the effects of these fiscal policies by comparing Baja
+California to a constructed counterfactual scenario. The tax reductions included a 50% cut in the Value
+Added Tax (VAT) and a 30% reduction in the Income Tax (ISR) for formal sector workers. At the time,
+the minimum wage in the state was low, equivalent to approximately 6 USD in 2023. Despite its doubling,
+our analysis reveals a substantial economic uplift, with Gross State Product (GSP) growth surpassing 4%
+and exceeding 7% after the pandemic. This case highlights how local fiscal policies, such as significant tax
+reductions paired with minimum wage increases, can positively influence economic performance, at least in
+the short and medium term. The statewide application of these policies provided a valuable opportunity to
+evaluate their economic effects rigorously.
   </blockquote>
 </details>
 <br>
-*Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
-*Arthur H. Cole Grant of the Economic History Association*   
-
 ---
 
 **[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
