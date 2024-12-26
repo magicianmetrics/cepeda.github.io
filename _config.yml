@@ -9,7 +9,13 @@ plugins:
 show_downloads: false
 github:
   is_project_page: true
-  languages: ["sp", "en"]
+
+languages: 
+  - en
+  - es
+default_lang: en
+
+# Definición de navegación (sin duplicación)
 nav:
   - title: "About"
     url: "/about/"
